@@ -8,7 +8,7 @@ Tasca S1 de l'Sprint 1 del curs de React de la IT ACADEMY
 
 Apartir del wireframe que t'aportem en format png, hauràs de fer la maquetació en format escriptori. És indiferents els colors escollits però si és molt important que facis l'estructura de caixes que t'indiquem.
 
-![Wireframe versión escritorio](.\imgs\ex1-escriptori-n1.png)
+![Wireframe versión escritorio](/imgs/ex1-escriptori-n1.png)
 
 ### Exercici 2
 
@@ -16,19 +16,19 @@ Haurem de començar a preparar adaptació a diferents dispositius, pel que haure
 
 Seguint amb el projecte anterior, fes la versió tauleta tal com indica la captura següent:
 
-![Wireframe versión tablet](.\imgs\ex2-tablet-n1.png)
+![Wireframe versión tablet](/imgs/ex2-tablet-n1.png)
 
 ### Exercici 3
 
 Com el cas anterior, ara hauràs de fer l'adaptació a versió Mobile.
 
-![Wireframe versión mobil](.\imgs\ex3-mobil-n1.png)
+![Wireframe versión mobil](/imgs/ex3-mobil-n1.png)
 
 ## Nivell 2
 
 ### Exercici 4
 
-![Mockup orientativo página](.\imgs\ex4-n2.png)
+![Mockup orientativo página](/imgs/ex4-n2.png)
 
 És important que tinguis en consideració el següent:
 
@@ -41,7 +41,7 @@ Com el cas anterior, ara hauràs de fer l'adaptació a versió Mobile.
 
 En aquest exercici hauràs d'afegir l'apartat dels articles seguint aquest grafisme:
 
-![Mockup orientativo artículo](.\imgs\ex5-n2.png)
+![Mockup orientativo artículo](/imgs/ex5-n2.png)
 
 ## Nivell 3
 
