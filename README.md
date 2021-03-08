@@ -54,7 +54,7 @@ Si vols pots consultar el material **opcional** de grid layout que hi ha al ca
 ## Recordatoris
 
 - Els sprints duren dues setmanes i comencen en dilluns.
-- **És obligatori pujar tots els lliuraments almenys amb el nivell 1** al final del sprint per a poder passar al següent.
+  - **És obligatori pujar tots els lliuraments almenys amb el nivell 1** al final del sprint per a poder passar al següent.
 - Els **lliuraments es faran a ser posible el dimecres o dijous de la segona setmana del sprint.**
 - Com a més tard el lliurament es farà el dilluns següent a la finalització del sprint, dia que comença el nou sprint.
 
@@ -67,3 +67,14 @@ Si vols pots consultar el material **opcional** de grid layout que hi ha al ca
 [CSS Media Queries for Desktop, Tablet, Mobile.](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
 
 El material te adjuntat els elements gràfics mínims, però hauràs de buscar imatges per a complementar-ho. Pots utilitzar recursos gratuïts com [Más de 1.9 millones de imágenes gratis para descargar - Pixabay](https://pixabay.com/es/).
+
+## Objectius
+
+- Maquetació per caixes.
+- Distribució per eixos Flex.
+- Diferenciar entre contenidor i item.
+- Ajustar maquetació a tamany pantalla.
+
+#### Durada 1-2 dies
+
+Lliurament URL del repositori
