@@ -54,11 +54,8 @@ Si vols pots consultar el material **opcional** de grid layout que hi ha al ca
 ## Recordatoris
 
 - Els sprints duren dues setmanes i comencen en dilluns.
-
 - **És obligatori pujar tots els lliuraments almenys amb el nivell 1** al final del sprint per a poder passar al següent.
-
-- Els **lliuraments es faran a ser posible el dimecres o dijous de la segona setmana del sprint.** 
-
+- Els **lliuraments es faran a ser posible el dimecres o dijous de la segona setmana del sprint.**
 - Com a més tard el lliurament es farà el dilluns següent a la finalització del sprint, dia que comença el nou sprint.
 
 - **És recomanable intentar aconseguir les màximes estrelles possibles** en els exercicis. Si no et dóna temps, no et preocupis. És una manera de millorar el teu perfil de cara al procés d'ocupabilitat, però també es té en compte el feedback dels mentors.
