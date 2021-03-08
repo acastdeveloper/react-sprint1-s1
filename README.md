@@ -10,7 +10,7 @@ Tasca S1 de l'Sprint 1 del curs de React de la IT ACADEMY
 
 Apartir del wireframe que t'aportem en format png, hauràs de fer la maquetació en format escriptori. És indiferents els colors escollits però si és molt important que facis l'estructura de caixes que t'indiquem.
 
-![](J:\REACT-IT-ACADEMY\SPRINT1\TASQUES\react-sprint1-s1\imgs\ex1-escriptori-n1.png)
+![Wireframe versión escritorio](J:\REACT-IT-ACADEMY\SPRINT1\TASQUES\react-sprint1-s1\imgs\ex1-escriptori-n1.png)
 
 
 
@@ -20,7 +20,7 @@ Haurem de començar a preparar adaptació a diferents dispositius, pel que haure
 
 Seguint amb el projecte anterior, fes la versió tauleta tal com indica la captura següent:
 
-![](J:\REACT-IT-ACADEMY\SPRINT1\TASQUES\react-sprint1-s1\imgs\ex2-tablet-n1.png)
+![Wireframe versión tablet](J:\REACT-IT-ACADEMY\SPRINT1\TASQUES\react-sprint1-s1\imgs\ex2-tablet-n1.png)
 
 
 
@@ -28,7 +28,7 @@ Seguint amb el projecte anterior, fes la versió tauleta tal com indica la captu
 
 Com el cas anterior, ara hauràs de fer l'adaptació a versió Mobile.
 
-![](J:\REACT-IT-ACADEMY\SPRINT1\TASQUES\react-sprint1-s1\imgs\ex3-mobil-n1.png)
+![Wireframe versión mobil](J:\REACT-IT-ACADEMY\SPRINT1\TASQUES\react-sprint1-s1\imgs\ex3-mobil-n1.png)
 
 
 
@@ -36,7 +36,7 @@ Com el cas anterior, ara hauràs de fer l'adaptació a versió Mobile.
 
 ### Exercici 4
 
-![](J:\REACT-IT-ACADEMY\SPRINT1\TASQUES\react-sprint1-s1\imgs\ex4-n2.png)
+![Mockup orientativo página](J:\REACT-IT-ACADEMY\SPRINT1\TASQUES\react-sprint1-s1\imgs\ex4-n2.png)
 
 És important que tinguis en consideració el següent:
 
@@ -51,7 +51,7 @@ Com el cas anterior, ara hauràs de fer l'adaptació a versió Mobile.
 
 En aquest exercici hauràs d'afegir l'apartat dels articles seguint aquest grafisme:
 
-![](J:\REACT-IT-ACADEMY\SPRINT1\TASQUES\react-sprint1-s1\imgs\ex5-n2.png)
+![Mockup orientativo artículo](J:\REACT-IT-ACADEMY\SPRINT1\TASQUES\react-sprint1-s1\imgs\ex5-n2.png)
 
 
 
