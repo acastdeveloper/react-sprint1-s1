@@ -74,6 +74,8 @@ aside {
     flex-direction: column;
 }
 
+main {flex-grow: 1;}
+
 nav,
 main>section {
     flex-grow: 2;
