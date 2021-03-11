@@ -72,19 +72,9 @@ footer>*>*>* {
 }
 
 /* **** A. HEADER **** */
-#wrapheader,
-#wrapheader>header,
-#hero,
-#wrapheader>header>*,
-#wrapheader>header>*>*,
-#wrapheader>header>*>*>* {
-    /* margin: 0; */
-    /* padding: 0; */
-
-}
 
 #wrapheader {
-    background: url("/imgs/fonsCap.jpg");
+    background: url("../imgs/fonsCap.jpg");
     background-size: cover;
     background-position: center;
     height: 67vh;
