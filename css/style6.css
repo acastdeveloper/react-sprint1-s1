@@ -90,7 +90,7 @@ footer #intrafooter {
 
 /* **** A. HEADER **** */
 #wrapheader {
-    background: url("/imgs/fonsCap.jpg");
+    background: url("../imgs/fonsCap.jpg");
     background-size: cover;
     background-position: center center ;
 }
@@ -240,25 +240,25 @@ main aside {
 }
 
 #i1 {
-    background: url("/imgs/te.jpg");
+    background: url("../imgs/te.jpg");
     background-size: cover;
     background-position: center bottom;
 }
 
 #i2 {
-    background: url("/imgs/osaka.jpg");
+    background: url("../imgs/osaka.jpg");
     background-size: cover;
     background-position: center bottom;
 }
 
 #i3 {
-    background: url("/imgs/fuji.jpg");
+    background: url("../imgs/fuji.jpg");
     background-size: cover;
     background-position: bottom;
 }
 
 #i4 {
-    background: url("/imgs/train.jpg");
+    background: url("../imgs/train.jpg");
     background-size: cover;
     background-position: bottom;
 }
